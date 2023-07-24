@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Smarttracker-/static/css/main.0c904ba4.css",
+    "main.js": "/Smarttracker-/static/js/main.963a8ff7.js",
+    "static/js/787.30081f05.chunk.js": "/Smarttracker-/static/js/787.30081f05.chunk.js",
+    "static/media/as.jpg": "/Smarttracker-/static/media/as.fa273077d9093ef92708.jpg",
+    "index.html": "/Smarttracker-/index.html",
+    "main.0c904ba4.css.map": "/Smarttracker-/static/css/main.0c904ba4.css.map",
+    "main.963a8ff7.js.map": "/Smarttracker-/static/js/main.963a8ff7.js.map",
+    "787.30081f05.chunk.js.map": "/Smarttracker-/static/js/787.30081f05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c904ba4.css",
+    "static/js/main.963a8ff7.js"
+  ]
+}
