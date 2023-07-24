@@ -1,0 +1,12 @@
+.card{
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(23, 50, 183, 0.25);
+    /* padding-top: 20px; */
+    /* display: flex; */
+    /* border: 2px solid red; */
+    
+}
+*{
+    /* padding-top: 20px; */
+    /* border: 2px solid red; */
+}
